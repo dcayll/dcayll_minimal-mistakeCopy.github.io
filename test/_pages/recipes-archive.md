@@ -1,7 +1,7 @@
 ---
-#layout: collection
+layout: collection
 title: "Recipes"
-#collection: recipes
+collection: recipes
 permalink: /recipes-archive/
 author_profile: false
 ---
